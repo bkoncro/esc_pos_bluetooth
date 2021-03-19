@@ -18,9 +18,6 @@ dependencies:
     git: 
       url: https://github.com/bkoncro/flutter_bluetooth_basic.git
 
-dependency_overrides:
-  image: ^3.0.0-nullsafety.0
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
