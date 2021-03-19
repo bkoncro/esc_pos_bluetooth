@@ -102,7 +102,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "4e32aaabf827f2dfa4e68668ebb59759fd6e2e4d"
+      resolved-ref: b1e01d191e435a81afac848c07db39aeb1b40dda
       url: "https://github.com/bkoncro/flutter_bluetooth_basic.git"
     source: git
     version: "0.1.6"
@@ -180,7 +180,7 @@ packages:
       name: rxdart
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.26.0"
+    version: "0.23.1"
   sky_engine:
     dependency: transitive
     description: flutter
