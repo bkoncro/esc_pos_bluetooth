@@ -63,13 +63,20 @@ packages:
       name: csslib
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.16.2"
+    version: "0.17.0"
+  enough_convert:
+    dependency: transitive
+    description:
+      name: enough_convert
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.2.0"
   esc_pos_utils:
     dependency: "direct main"
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "0d727413f33e4bb0101d79944cc4b8bf72fc316d"
+      resolved-ref: "903f3106af694e0462c87e055a928e6e56906aff"
       url: "https://github.com/bkoncro/esc_pos_utils.git"
     source: git
     version: "1.0.1"
@@ -99,13 +106,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  gbk_codec:
-    dependency: transitive
-    description:
-      name: gbk_codec
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.3.2"
   hex:
     dependency: transitive
     description:
@@ -114,12 +114,12 @@ packages:
     source: hosted
     version: "0.2.0"
   html:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: html
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.14.0+4"
+    version: "0.15.0"
   image:
     dependency: transitive
     description:
